@@ -736,7 +736,7 @@ function ol(r) {
       props: {
         text: "Join our Telegram",
         variant: "textGradient",
-        href: "https://t.me/",
+        href: "https://t.me/nfinityai_erc20",
         className:
           "font-avantGarde text-[1.125rem] font-bold h-[3.6875rem] w-[12.5rem] md:w-full",
       },
@@ -745,7 +745,7 @@ function ol(r) {
       props: {
         text: "Follow us on X",
         variant: "textGradient",
-        href: "https://x.com/",
+        href: "https://x.com/nfinityai_erc20",
         className:
           "font-avantGarde text-[1.125rem] font-bold h-[3.6875rem] w-[12.5rem] md:w-full",
       },
@@ -754,7 +754,7 @@ function ol(r) {
       props: {
         text: "Buy on Uniswap",
         variant: "textGradient",
-        href: "https://app.uniswap.org/explore/tokens/ethereum/0x0000000000000000000",
+        href: "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
         className:
           "font-avantGarde text-[1.125rem] font-bold h-[3.6875rem] w-[12.5rem] md:w-full",
       },
@@ -3610,7 +3610,7 @@ function Wl(r) {
         text: "Join our Telegram",
         variant: "textGradient",
         className: "h-8",
-        href: "https://t.me/",
+        href: "https://t.me/nfinityai_erc20",
       },
     })),
     (g = new X({
@@ -3618,7 +3618,7 @@ function Wl(r) {
         text: "Follow us on X",
         variant: "textGradient",
         className: "h-8",
-        href: "https://x.com/",
+        href: "https://x.com/nfinityai_erc20",
       },
     }));
   let D = Ve(r[0]),
@@ -3631,7 +3631,7 @@ function Wl(r) {
         variant: "textGradient",
         className:
           "font-avantGarde text-[1.125rem] font-bold w-60 mx-auto mt-2 h-14",
-        href: "https://app.uniswap.org/explore/tokens/ethereum/0x0000000000000000000",
+        href: "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
       },
     })),
     {

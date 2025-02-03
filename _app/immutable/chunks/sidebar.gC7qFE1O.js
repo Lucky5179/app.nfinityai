@@ -11,7 +11,7 @@ const e =
     { name: "Prompt guides", href: "/guides", disabled: !0, icon: e },
     {
       name: "Telegram community",
-      href: "https://t.me/",
+      href: "https://t.me/nfinityai_erc20",
       icon: l,
     },
   ],
